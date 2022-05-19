@@ -1,5 +1,6 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"ip":"IronCraft_S1.aternos.me:50053
+",
+	"port": "50053",
 	"name": "BOT_NAME"
 }
